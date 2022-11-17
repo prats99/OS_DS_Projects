@@ -1,0 +1,1 @@
+##This is a repository for coding algorithms from scratch and personal projects essential for the data science journey.
